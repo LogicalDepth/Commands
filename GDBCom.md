@@ -1,6 +1,6 @@
-# ** Comman GDB Commands**
+# Comman GDB Commands
 
-The ```help``` command lists all GDB commands.
+The `help` command lists all GDB commands.
 
 ```help all  /* lists all the commands in GDB */ ```
 
