@@ -2,7 +2,9 @@
 
 The `help` command lists all GDB commands.
 
-```help all  /* lists all the commands in GDB */ ```
+```
+help all  /* lists all the commands in GDB */
+```
 
 ## **Commands for Execution Control Flow**
 
